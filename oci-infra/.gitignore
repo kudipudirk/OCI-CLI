@@ -1,4 +1,6 @@
-.terraform/
 *.tfstate
 *.tfstate.backup
-terraform.tfvars
+.terraform/
+*.tfvars          # Only ignore if they contain secrets
+.oci/
+*.pem

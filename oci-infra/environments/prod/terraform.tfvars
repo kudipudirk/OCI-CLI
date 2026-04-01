@@ -1,0 +1,6 @@
+region = "ap-mumbai-1"
+compartment_id = "ocid1.compartment.oc1..example"
+subnet_id = "ocid1.subnet.oc1.ap-mumbai-1.example"
+image_id = "ocid1.image.oc1.ap-mumbai-1.example"
+ssh_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDexample"
+ad = "Uocm:AP-MUMBAI-1-AD-1"
